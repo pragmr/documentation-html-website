@@ -24,6 +24,9 @@
     color: #007BFF;
 }
 
+h2{
+    padding: 20px;
+}
 .main-content {
     display: flex;
     padding: 20px;
@@ -45,6 +48,13 @@
     flex: 1;
     max-height: 500px;
     overflow-y: auto;
+}
+
+.recommendations h3{
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #2d2c2c;
 }
 
 .recommendation {
